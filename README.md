@@ -8,3 +8,4 @@ Custom code and behaviours for Bowie. Not guaranteed to work as BowieLib is upda
 
 * **OperatorInterfaceRoboObstacle** - Used on the Operator Interface paired with Yellow Bot (Feb. 2018)
 
+* **BowieMiniAwesome and OperatorInterfaceAwesome** - Used on the Yellow Bot for the Awesome Foundation Ottawa award party (April 2018)
